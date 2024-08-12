@@ -1,0 +1,10 @@
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\bin\Debug\Farol_3i_15.exe.config
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\bin\Debug\Farol_3i_15.exe
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\bin\Debug\Farol_3i_15.pdb
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.csproj.AssemblyReference.cache
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.Form1.resources
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.Properties.Resources.resources
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.csproj.GenerateResource.cache
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.csproj.CoreCompileInputs.cache
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.exe
+C:\Users\autologon\source\repos\Farol_3i_15\Farol_3i_15\obj\Debug\Farol_3i_15.pdb
